@@ -1,0 +1,27 @@
+.container {
+  align-items: center;
+  background-color: #eee;
+  display: flex;
+  padding-left: 10px;
+}
+
+.filtersContainer {
+  align-items: center;
+  display: flex;
+  padding-left: 10px;
+}
+
+select, input, button {
+  margin-left: 10px;
+}
+
+.filtersContainer {
+  white-space: pre-line;
+}
+
+.cardFilters {
+  border: 1px solid black;
+  border-radius: 3px;
+  margin-left: 5px;
+  width: 15em;
+}
