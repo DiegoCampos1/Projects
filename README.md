@@ -9,6 +9,8 @@ Meu nome é Diego Campos, sou estudante de desenvolvimento de software e criei o
 
 ## Projetos de test:
 [React Testing Library](https://github.com/DiegoCampos1/Projects/tree/master/React-testing-library)
+[Jest - Mock](https://github.com/DiegoCampos1/Projects/tree/master/Jest)
+
 
 ## Projetos em banco de dados:
 Com relação ao banco de dados, trago para o banco relacional projetos em MySQL e em banco não relacional em Mongo DB.
