@@ -7,6 +7,9 @@ Meu nome é Diego Campos, sou estudante de desenvolvimento de software e criei o
 
 [Star Wars Datatable with hooks+Context API ](https://github.com/DiegoCampos1/Projects/tree/master/React-Hooks-starwars-datatable)
 
+## Projetos de test:
+[React Testing Library](https://https://github.com/DiegoCampos1/Projects/tree/master/React-testing-library)
+
 ## Projetos em banco de dados:
 Com relação ao banco de dados, trago para o banco relacional projetos em MySQL e em banco não relacional em Mongo DB.
 
